@@ -1,0 +1,119 @@
+.R-XXsmall{
+    text-align: right;
+    font-size: xx-small;
+}
+
+.R-Xsmall{
+    text-align: right;
+    font-size: x-small;
+}
+
+.R-small{
+    text-align: right;
+    font-size: small;
+}
+
+.R-medium{
+    text-align: right;
+    font-size: medium;
+}
+
+.R-large{
+    text-align: right;
+    font-size: large;
+}
+
+.R-Xlarge{
+    text-align: right;
+    font-size: x-large;
+}
+
+.R-XXlarge{
+    text-align: right;
+    font-size: xx-large;
+}
+
+.C-XXsmall{
+    text-align: center;
+    font-size: xx-small;
+}
+
+.C-Xsmall{
+    text-align: center;
+    font-size: x-small;
+}
+
+.C-small{
+    text-align: center;
+    font-size: small;
+}
+
+.C-medium{
+    text-align: center;
+    font-size: medium;
+}
+
+.C-large{
+    text-align: center;
+    font-size: large;
+}
+
+.C-Xlarge{
+    text-align: center;
+    font-size: x-large;
+}
+
+.C-XXlarge{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.L-XXsmall{
+    text-align: left;
+    font-size: xx-small;
+}
+
+.L-Xsmall{
+    text-align: left;
+    font-size: x-small;
+}
+
+.L-small{
+    text-align: left;
+    font-size: small;
+}
+
+.L-medium{
+    text-align: left;
+    font-size: medium;
+}
+
+.L-large{
+    text-align: left;
+    font-size: large;
+}
+
+.L-Xlarge{
+    text-align: left;
+    font-size: x-large;
+}
+
+.L-XXlarge{
+    text-align: left;
+    font-size: xx-large;
+}
+
+.L-larger{
+    font-size: larger;
+    text-align: left;
+}
+
+.C-larger{
+    font-size: larger;
+    text-align: center;
+}
+
+.R-larger{
+    font-size: larger;
+    text-align: right;
+}
